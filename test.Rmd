@@ -1,0 +1,17 @@
+---
+title: "Test Script"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Testing your Markdown installation
+
+Compile this document to test whether you have installed Markdown and 
+LaTeX correctly.
+If no PDF file gets created after clicking on `Knit/Knit to PDF`, please
+make a screenshot from the error message and post it into the Moodle forum.
+If the file `test.log` was created during the compillation attemt, please also
+post this file alongside the screenshot.
